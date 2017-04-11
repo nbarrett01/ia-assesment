@@ -6,12 +6,6 @@ function setup(){
     createCanvas(600,400);
     background(234,9,242);
 }
-
-function draw(){
-   stroke(255,255,255);
-   fill(255,0,0);
-   triangle(100,100,100,100);
-}
     
 function draw(){
      // background();
